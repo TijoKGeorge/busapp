@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\surajapp\surajapp\bin\Debug\surajapp.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\surajapp\surajapp\bin\Debug\surajapp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\surajapp\surajapp\bin\Debug\surajapp.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\surajapp\surajapp\obj\Debug\surajapp.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\surajapp\surajapp\obj\Debug\surajapp.exe
+c:\users\administrator\documents\visual studio 2015\Projects\surajapp\surajapp\obj\Debug\surajapp.pdb
